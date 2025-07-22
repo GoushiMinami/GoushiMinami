@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on high school student to be a developper.
 - 📫 How to reach me X(@puchitomato54)
 - 😄 Pronouns: He,Him
-- ⚡ Fun fact: Game(example:LoL,OW2,VAROLANT)
 
 <!---
 GoushiMinami/GoushiMinami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
